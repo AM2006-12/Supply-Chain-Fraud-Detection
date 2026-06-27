@@ -1,0 +1,4 @@
+This is a placeholder endpoint to handle accidental GET /authorize requests.
+If a script attempted to GET /authorize, the request will now succeed with this message.
+
+If you still see 'Cannot GET /authorize', please copy the browser URL that shows it and the Network tab entries and I'll inspect further.
